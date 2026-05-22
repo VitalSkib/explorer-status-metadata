@@ -4,6 +4,7 @@
 // @description     Appends rich metadata (dimensions, date, type, duration, bitrate, fps) to Explorer's status bar. Zero polling — purely reactive, path-keyed cache.
 // @version         1.3.0
 // @author          VitalS
+// @github          VitalSkib
 // @include         explorer.exe
 // @compilerOptions -lgdi32 -luser32 -lole32 -loleaut32 -luuid -lpropsys
 // ==/WindhawkMod==
