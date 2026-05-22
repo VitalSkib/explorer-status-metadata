@@ -2,7 +2,7 @@
 
 A [Windhawk](https://windhawk.net/) mod for Windows Explorer that appends rich file metadata to the status bar when a single file is selected.
 
-![Status bar showing: 1 item selected  │  1920 x 1080  │  15.05.2026 14:32  │  PNG Image](https://i.imgur.com/placeholder.png)
+![Explorer status bar with metadata](screenshot.png)
 
 ## What it shows
 
